@@ -78,17 +78,8 @@ payloads/
     └── xor.txt
 ```
 
-<br>
 
-## filter.sh
-
-Before you scan, you need URLs worth scanning. `filter.sh` handles that — it crawls a target passively and actively, deduplicates everything, then splits the results into `xss.txt`, `sqli.txt`, `lfi.txt`, and `redirect.txt`. Feed those straight into DarkVector.
-
-```bash
-bash filter.sh
-```
-
-Needs: `gum` `katana` `uro` `gf` `Gxss` `kxss` `anew`
+Requirements: `gum` `katana` `uro` `gf` `Gxss` `kxss` `anew`
 
 <br>
 
