@@ -83,6 +83,7 @@ Requirements: `gum` `katana` `uro` `gf` `Gxss` `kxss` `anew`
 
 <br>
 
+<img width="1497" height="910" alt="Screenshot From 2026-05-11 04-32-08" src="https://github.com/user-attachments/assets/ed46888a-6392-4512-947d-5b6f059fe31a" />
 ---
 
 <div align="center">
